@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+    <mime-type type="text/adwf">
+        <comment xml:lang="en">Astrea Defined Weather File</comment>
+        <magic priority="50">
+            <match type="string" value="\x89ADWF" offset="0"/>
+        </magic>
+        <glob pattern="*.adwf"/>
+    </mime-type>
+</mime-info>

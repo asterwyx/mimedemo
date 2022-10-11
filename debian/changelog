@@ -1,0 +1,6 @@
+mimedemo (1.0.0) UNRELEASED; urgency=low
+
+  * Initial release. Closes: #nnnn
+    <nnnn is the bug number of your ITP>
+
+ -- Astrea <>  Mon, 10 Oct 2022 18:13:54 +0800
