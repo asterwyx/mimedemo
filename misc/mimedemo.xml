@@ -3,7 +3,7 @@
     <mime-type type="text/adwf">
         <comment xml:lang="en">Astrea Defined Weather File</comment>
         <magic priority="50">
-            <match type="string" value="\x89ADWF" offset="0"/>
+            <match type="string" value="ADWF" offset="0"/>
         </magic>
         <glob pattern="*.adwf"/>
     </mime-type>

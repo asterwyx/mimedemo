@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=mimedemo
+Type=Application
+Terminal=false
+Exec=/usr/bin/mimedemo %u
+MimeType=text/adwf;
+Categories=Network
+StartupNotify=true

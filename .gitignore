@@ -1,0 +1,8 @@
+.cache/
+build*/
+*.o
+*.a
+obj-x86_64-linux-gnu/
+debian/mimedemo
+debian/.debhelper
+.vscode/
